@@ -59,8 +59,3 @@ weighting.
 Starting from 67.25% development accuracy, the iterative process reached approximately 76% on the
 finalized development/validation run. The resulting project provides both a trained scene classifier and an
 auditable record of the data-centric experimentation process.
-11. Repository and Evidence
-The accompanying repository is intended to contain the Python source files, write-up/presentation,
-exported 3LC project, README, and 3LC Dashboard screenshots. Screenshots should document the
-embedding view, filtering/labeling process, and accuracy progression. The final Kaggle result should be
-recorded separately once the hidden-test score is available.
