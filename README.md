@@ -82,3 +82,20 @@ The final development run achieved a **best validation accuracy of 76.83%**, imp
 │   └── Kaggle.png
 │
 └── submissions/              # Iterative submission files
+```
+HACKBLOX 2026
+
+This project was developed during the 24-hour finale of HACKBLOX 2026 under the AI Track.
+
+Team Byte — Solo Participant
+
+The project received a Special Mention from the judge for its genuine use of 3LC's data-centric workflow, transparent approach, and verifiable submission.
+
+📚 What I Learned
+Applying a data-centric approach to machine learning
+Using embeddings to inspect image datasets
+Identifying difficult and potentially useful training samples
+Iteratively improving a model through data curation
+Working with 3LC for dataset and experiment analysis
+Building and submitting a complete ML project under a 24-hour deadline
+
